@@ -11,7 +11,7 @@ console.log(name.length);
 
 const name2=name.slice(0,3);
 console.log(name2);
-const name3=name.slice(-6,6,-1);
+const name3=otherName.slice(-7,-1);
 console.log(name3);
 
 
