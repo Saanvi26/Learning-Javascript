@@ -2,6 +2,6 @@
 //alert(2+2); //not allowed in node.js
 console.log(typeof 2); //number
 console.log(typeof "2"); //string
-console.log(typeof null);
+console.log(typeof null);//object
 // ** null is an object **
-console.log(typeof undefined);
+console.log(typeof undefined); //undefined
